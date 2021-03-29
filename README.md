@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jakub Pietrzko
-- 🌱 I’m currently learning C/C++, Python, Java, MySQL
+- 💻 I’m currently learning C/C++, Python, Java, MySQL
 - 🎓 I'm 2nd year student of Computer Science at Cracow University of Technology.
 - 👀 I’m interested in programming, computer games, strenght sports
 - 📫 pietrzko.jakub@gmail.com 
